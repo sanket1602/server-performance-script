@@ -2,7 +2,7 @@
 
 echo 
 echo 
-echo "SERVER PERFORMANCE STATS"
+echo "Server Performance Stats"
 echo
 echo
 
@@ -69,5 +69,5 @@ fi
 echo
 
 echo 
-echo "END OF REPORT"
+echo "End Of Report"
 echo 
