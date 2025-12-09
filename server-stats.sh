@@ -64,7 +64,7 @@ echo ">> Failed Login Attempts (lastb):"
 if command -v lastb >/dev/null 2>&1; then
     lastb | head
 else
-    echo "lastb command not available on this system."
+    echo "lastb command not available on this server."
 fi
 echo
 
