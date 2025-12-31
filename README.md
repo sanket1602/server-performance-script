@@ -1,5 +1,5 @@
-# server-performance-script
-A shell script that can analyse basic server performance stats.
+# Server Performance Script (Bash)
+A shell script that can analyse basic server performance statistics like uptime, free memory etc.
 
 ## This project is part of devops.sh project = https://roadmap.sh/projects/server-stats 
 
